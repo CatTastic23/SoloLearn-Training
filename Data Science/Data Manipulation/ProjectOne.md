@@ -11,9 +11,8 @@
 ## Output Format
 * An numpy 1d array of values rounded to the second decimal. 
 
-```2 2
-1.5 1
-2 2.9```
+## Sample Input
+```2 2 1.5 1 2 2.9 ```
 
-# Sample Output
-```[1.25 2.45]```
+## Sample Output
+``` [1.25 2.45] ```
