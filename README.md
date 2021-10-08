@@ -4,9 +4,14 @@ Using the Sololearn app to sharpen my skills. This repo will hold all the traini
 ## Course:
 
 ### Data Science:
-> Data Manipulatino
+> Data Manipulation
+* Average of Rows
 > Data Analysis
+
 > Data Visualization
+
 > Linear Regressino
+
 > Classification
+
 > Clustering Wines
