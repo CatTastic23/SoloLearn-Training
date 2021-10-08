@@ -5,7 +5,7 @@ rows, cols = [int(x) for x in input().split()]
 
 list=[]
 for i in range(rows):
-    list.append([float(y) for y in input().split()])
+    list.append([float(cols) for cols in input().split()])
 print(list)
 
 avg = np.mean(list, axis=1)
