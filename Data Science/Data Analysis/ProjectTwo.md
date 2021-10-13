@@ -11,8 +11,10 @@
 
 ## Sample Input:
 2
+
 1.2 0 0.5 -1
 
 ## Sample Output: 
 [[1.2 0.]
+
 [0.5 -1.]]
