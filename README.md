@@ -7,7 +7,7 @@ Using the Sololearn app to sharpen my skills. This repo will hold all the traini
 * [Average of Rows](https://github.com/CatTastic23/SoloLearn-Training/blob/main/Data%20Science/Data%20Manipulation/AverageOfRows.py)
 
 **Data Analysis**
-* [Project Two]()
+* [Project Two](https://github.com/CatTastic23/SoloLearn-Training/blob/main/Data%20Science/Data%20Analysis/ProjectTwo.md)
 * [Reshape](https://github.com/CatTastic23/SoloLearn-Training/blob/main/Data%20Science/Data%20Analysis/Reshape.py)
 
 **Data Visualization**

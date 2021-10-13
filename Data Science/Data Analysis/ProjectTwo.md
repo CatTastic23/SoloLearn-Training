@@ -1,6 +1,6 @@
 # Data Science - Reshape
 ## Task
-* Given a list of numbers and the number of rows(r), reshape the list into 2-dimensional array. Notw that r divide the length of the list evenly. 
+* Given a list of numbers and the number of rows(r), reshape the list into 2-dimensional array. Note that r divide the length of the list evenly. 
 
 ## Input Format
 * First line: an integer (r) indicating the number of rows of the 2-dimensional array
@@ -9,12 +9,15 @@
 ## Output Format
 * An numpy 2d array of values rounded to the second decimal.
 
-## Sample Input:
+## Sample Input
 2
 
 1.2 0 0.5 -1
 
-## Sample Output: 
+## Sample Output:
 [[1.2 0.]
 
 [0.5 -1.]]
+
+## Explanation
+* The required number of the rows is 2, and we are given a list of 4 numbers; as a result the 2d array should be 2 x 2. So the first row is the first two number and the second row contains the next two numbers in given list. 
