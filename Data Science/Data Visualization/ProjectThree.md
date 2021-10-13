@@ -14,7 +14,7 @@ A list of numbers including one or more string "nan" to indicate a missing value
 A list of imputed values where all values are rounded to its first decimal place. 
 
 ## Sample Input
-3 4 5 3 4 4 nan
+    3 4 5 3 4 4 nan
 
 ## Sample Output
     0 3.0
