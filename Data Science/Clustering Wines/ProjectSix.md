@@ -7,7 +7,7 @@ Unsupervised learning algorithm clustering involves updating the centroid of eac
 * Assume that there are two clusters among the given two-dimensional data points and two random points (0, 0), and (2, 2) are the initial cluster centroids. Calculate the euclidean distance between each data point and each of the centroid, assign each data point to its nearest centroid, then calculate the new centroid. If there's a tie, assign the data point to the cluster with centroid (0, 0). If none of the data points were assigned to the given centroid, return None.
  
 ## Input Format 
-* First line: an integer to indicate the number of data points 👎
+* First line: an integer to indicate the number of data points (n)
 * Next n lines: two numeric values per each line to represent a data point in two dimensional space.
 
 ## Output Format
