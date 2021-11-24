@@ -1,6 +1,3 @@
-from typing import no_type_check
-
-
 import numpy as np
 
 rows, cols = [int(x) for x in input().split()]
