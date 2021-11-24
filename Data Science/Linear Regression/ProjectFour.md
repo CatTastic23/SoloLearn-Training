@@ -19,6 +19,7 @@ Last line: p values of target y
     2 2
     1 0
     0 2
+    2 3
 
 ## Sample Output
     [2., 1.5]
