@@ -7,3 +7,4 @@ Using the Sololearn app to sharpen my skills. This repo will hold all the traini
 * ![Certificate](https://github.com/CatTastic23/SoloLearn-Training/blob/main/Data%20Science/png.png)
 
 ### [Machine Learning](https://github.com/CatTastic23/SoloLearn-Training/tree/main/Machine%20Learning)
+* ![Certificate]()

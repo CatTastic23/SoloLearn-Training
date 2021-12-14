@@ -18,3 +18,7 @@
 
 **Neural Networks**
 
+**Certificate**
+* [SoloLearn Machine Learning Certificate]()
+![Certificate]()
+
