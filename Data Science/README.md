@@ -27,5 +27,4 @@
 
 **Certificate**
 * [SoloLearn Data Science Certificate](https://www.sololearn.com/certificates/course/en/23454582/1093/landscape/png?fbclid=IwAR04KQrj_7yGf03s9B40nD9lgcapnttvFf8vnA4Hrya92hsnp1yPSwx9QW4)
-![Certificate](https://github.com/CatTastic23/SoloLearn-Training/blob/main/Data%20Science/png.png)
 ![Certificate](png.png)
