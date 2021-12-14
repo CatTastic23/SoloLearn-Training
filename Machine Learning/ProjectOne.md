@@ -26,3 +26,6 @@ File one.csv contents:
 **Sample Output**
 
       [1 2]
+
+**Explanation**
+* The **a** is th header for the first columns, which has values [1 2].
