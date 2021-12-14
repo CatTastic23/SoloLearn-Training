@@ -1,8 +1,8 @@
 # [Machine Learning](https://github.com/CatTastic23/SoloLearn-Training/tree/main/Machine%20Learning):
 
 **The Basics**
-* [Project one]()
-* [What's in a Column?]()
+* [Project one](https://github.com/CatTastic23/SoloLearn-Training/blob/main/Machine%20Learning/ProjectOne.md)
+* [What's in a Column?](https://github.com/CatTastic23/SoloLearn-Training/blob/main/Machine%20Learning/whatsInAColumn.py)
 
 **Classification**
 

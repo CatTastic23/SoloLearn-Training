@@ -13,13 +13,16 @@ Getting a column from a numpy array.
 * Numpy Array
 
 **Sample Input**
-    https://sololearn.come/uploads/files/one.csv
-    a
+
+        https://sololearn.come/uploads/files/one.csv
+        a
 
 File one.csv contents:
-    a,b
-    1,3
-    2,4
+
+        a,b
+        1,3
+        2,4
 
 **Sample Output**
-    [1 2]
+
+      [1 2]
